@@ -21,9 +21,9 @@ A simple command-line Expense Tracker built with Python. This application helps 
 
 
 Expense-Tracker/
-│── expense_tracker.py
-│── expenses.json
-└── README.md
+── expense_tracker.py
+── expenses.json
+── README.md
 
 
 ▶️ How to Run

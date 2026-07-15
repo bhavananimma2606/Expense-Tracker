@@ -50,6 +50,8 @@ python expense_tracker.py
 6. Update Expense
 7. Exit
 
+📸 Screenshots
+
 
 📌 Future Improvements
 

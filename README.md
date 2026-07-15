@@ -17,13 +17,15 @@ A simple command-line Expense Tracker built with Python. This application helps 
 * Python 3
 * JSON (for data storage)
 
-📁 Project Structure
+📂 Project Structure
 
-
-Expense-Tracker/
-── expense_tracker.py
-── expenses.json
-── README.md
+```text
+Expense-Tracker
+│
+├── expense_tracker.py
+├── expenses.json
+└── README.md
+```
 
 
 ▶️ How to Run

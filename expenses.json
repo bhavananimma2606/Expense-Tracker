@@ -1,18 +1,14 @@
 [
     {
-        "amount": 200.0,
-        "category": "food"
+        "amount": 2000.0,
+        "category": "Food"
     },
     {
-        "amount": 600.0,
-        "category": "tour"
+        "amount": 2000.0,
+        "category": "Shopping"
     },
     {
-        "amount": 400.0,
-        "category": "games"
-    },
-    {
-        "amount": 300.0,
-        "category": "snacks"
+        "amount": 5500.0,
+        "category": "Beauty"
     }
 ]

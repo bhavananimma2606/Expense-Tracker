@@ -51,34 +51,35 @@ python expense_tracker.py
 7. Exit
 
 📸 Screenshots
-Main Menu
+1. Main Menu
 
 ![Main Menu](screenshots/image1.png)
 
-### Add Expense
+2. Add Expense
 
 ![Add Expense](screenshots/image2.png)
 
-### View Expenses
+3. Expense Added Successfully
 
 ![View Expenses](screenshots/image3.png)
 
-### Search Expense
+4. View All Expenses
 
 ![Search Expense](screenshots/image4.png)
 
+5. View Total Expenses
 
 ![Main Menu](screenshots/image5.png)
 
-### Add Expense
+6. Search Expenses by Category
 
 ![Add Expense](screenshots/image6.png)
 
-### View Expenses
+7. Update Expense
 
 ![View Expenses](screenshots/image7.png)
 
-### Search Expense
+8. Delete Expense
 
 ![Search Expense](screenshots/image8.png)
 
